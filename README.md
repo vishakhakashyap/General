@@ -1,1 +1,1 @@
-# General
+This repository contains code and resources for a customer segmentation project using the K-Means clustering algorithm. The goal of this project is to group customers into distinct segments based on their age, Spending Score, and annual income.
